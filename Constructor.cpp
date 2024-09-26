@@ -40,7 +40,7 @@ int main(){
 
 ashish a1;
 
-ashish a2(19, "gyanesh");
+ashish a2(19, "naam");
 
 };
 
