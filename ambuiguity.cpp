@@ -6,4 +6,5 @@ void print(int x) {
 void print(double x) {
 cout << "Double: " << x << endl;
 int main() {
-  print(5.5);
+  print(5.5); // Ambiguity: 5.5 can be converted to both int and double
+
