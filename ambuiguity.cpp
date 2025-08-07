@@ -4,5 +4,6 @@ void print(int x) {
   cout << "Integer: "<< x << endl;
 }
 void print(double x) {
+cout << "Double: " << x << endl;
 int main() {
   print(5.5);
