@@ -10,3 +10,4 @@ class Crickter
 public:
     Crickter(string name, int runs, float avg)
     {
+        this->avg = avg;
