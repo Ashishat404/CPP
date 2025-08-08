@@ -6,3 +6,7 @@ class Crickter
     string name;
     int runs;
     float avg;
+
+public:
+    Crickter(string name, int runs, float avg)
+    {
