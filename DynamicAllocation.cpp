@@ -3,3 +3,5 @@ using namespace std;
 
 class Crickter
 {
+    string name;
+   
