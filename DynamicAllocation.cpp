@@ -5,4 +5,4 @@ class Crickter
 {
     string name;
     int runs;
-    
+    float avg;
