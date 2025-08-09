@@ -21,3 +21,4 @@ public:
 };
 int main()
 {
+    Crickter c1("Virat Kholi", 250000, 55.1);
