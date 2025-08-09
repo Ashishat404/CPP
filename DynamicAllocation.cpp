@@ -11,4 +11,5 @@ public:
     Crickter(string name, int runs, float avg)
     {
         this->avg = avg;
-         this->name = name;
+        this->name = name;
+        this->runs = runs;
