@@ -16,3 +16,5 @@ public:
 }
     void print()
     {
+        cout << name << "\t" << avg << "\t" << runs << "\t" << endl;
+    }
