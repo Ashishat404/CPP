@@ -18,3 +18,6 @@ public:
     {
         cout << name << "\t" << avg << "\t" << runs << "\t" << endl;
     }
+};
+int main()
+{
