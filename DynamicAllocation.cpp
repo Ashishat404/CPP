@@ -13,3 +13,6 @@ public:
         this->avg = avg;
         this->name = name;
         this->runs = runs;
+}
+    void print()
+    {
