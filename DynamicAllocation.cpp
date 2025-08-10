@@ -23,3 +23,5 @@ int main()
 {
     Crickter c1("Virat Kholi", 250000, 55.1);
     c1.print();
+    Crickter *c2 = new Crickter("Sachin Tendulkar", 100000, 87.1);
+    
