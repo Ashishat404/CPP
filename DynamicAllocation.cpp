@@ -25,4 +25,4 @@ int main()
     c1.print();
     Crickter *c2 = new Crickter("Sachin Tendulkar", 100000, 87.1);
     c2->print();
-    
+}
