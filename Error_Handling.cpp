@@ -6,3 +6,5 @@ int main(){
         int demoniator;
         cout << "Enter the denominator : ";
         cin >> demoniator;
+     try{
+        if(demoniator == 0){
