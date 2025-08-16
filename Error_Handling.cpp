@@ -5,3 +5,4 @@ int main(){
         int numenator = 10;
         int demoniator;
         cout << "Enter the denominator : ";
+        cin >> demoniator;
