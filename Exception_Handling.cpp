@@ -1,3 +1,7 @@
-lude <iostream>
+#include <iostream>
 #include <stdexcept>
 using namespace std;
+
+int main()
+{
+
