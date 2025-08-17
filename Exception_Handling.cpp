@@ -4,4 +4,6 @@ using namespace std;
 
 int main()
 {
-
+    try
+    {
+        double balance = 1000;
