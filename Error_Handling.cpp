@@ -9,4 +9,7 @@ int main(){
      try{
         if(demoniator == 0){
                 throw denominator;
-        }
+     }
+        int result = numenator / demoniator;
+        cout << "Result : " << result;
+     }
