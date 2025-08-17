@@ -8,3 +8,5 @@ int main(){
         cin >> demoniator;
      try{
         if(demoniator == 0){
+                throw denominator;
+        }
