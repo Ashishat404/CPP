@@ -13,3 +13,6 @@ int main()
         cin >> amount;
 
         if (amount < 0)
+        {
+            cout << "Amount can't be zero" << endl;
+        }
