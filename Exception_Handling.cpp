@@ -18,3 +18,6 @@ int main()
         }
 
         balance = balance + amount;
+        cout << "Balance in the account : " << balance << endl;
+
+        // withdraw
