@@ -10,3 +10,6 @@ int main()
         double amount;
         // deposit
         cout << "Enter deposit amount : ";
+        cin >> amount;
+
+        if (amount < 0)
