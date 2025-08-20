@@ -16,3 +16,5 @@ int main()
         {
             cout << "Amount can't be zero" << endl;
         }
+
+        balance = balance + amount;
