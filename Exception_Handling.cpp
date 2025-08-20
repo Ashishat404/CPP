@@ -8,3 +8,5 @@ int main()
     {
         double balance = 1000;
         double amount;
+        // deposit
+        cout << "Enter deposit amount : ";
