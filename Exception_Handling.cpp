@@ -21,3 +21,4 @@ int main()
         cout << "Balance in the account : " << balance << endl;
 
         // withdraw
+        cout << "Enter withdrawl amount : ";
