@@ -22,3 +22,4 @@ int main()
 
         // withdraw
         cout << "Enter withdrawl amount : ";
+        cin >> amount;
