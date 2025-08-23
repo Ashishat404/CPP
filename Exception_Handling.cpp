@@ -30,3 +30,5 @@ int main()
                 throw invalid_argument("amount can't be less than zero");
             }
             if(amount > balance){
+                throw runtime_error("insufficient balance");
+            }
