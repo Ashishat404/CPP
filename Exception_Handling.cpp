@@ -23,3 +23,6 @@ int main()
         // withdraw
         cout << "Enter withdrawl amount : ";
         cin >> amount;
+        try
+        {
+            if (amount < 0)
