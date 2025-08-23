@@ -26,3 +26,6 @@ int main()
         try
         {
             if (amount < 0)
+                            {
+                throw invalid_argument("amount can't be less than zero");
+            }
