@@ -35,3 +35,5 @@ int main()
             balance = balance - amount;
             cout << "balance in the amouunt : " << balance << endl;
         }
+        catch (exception &e)
+        {
