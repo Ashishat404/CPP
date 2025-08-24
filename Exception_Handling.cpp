@@ -33,3 +33,5 @@ int main()
                 throw runtime_error("insufficient balance");
             }
             balance = balance - amount;
+            cout << "balance in the amouunt : " << balance << endl;
+        }
