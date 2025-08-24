@@ -32,3 +32,4 @@ int main()
             if(amount > balance){
                 throw runtime_error("insufficient balance");
             }
+            balance = balance - amount;
